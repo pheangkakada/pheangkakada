@@ -31,25 +31,25 @@ Passionate about building modern web applications, creating intuitive user exper
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,cs,java" />
+<img src="https://skillicons.dev/icons?i=javascript,cs,java,flutter,c" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
@@ -132,7 +132,6 @@ Mobile application focused on productivity, note-taking, and personal organizati
 
 💼 LinkedIn: https://www.linkedin.com/in/pheang-kakada-2ab01840b/
 
-💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
