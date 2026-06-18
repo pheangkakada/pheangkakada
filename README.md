@@ -1,143 +1,197 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pheang+Kakada;Full-Stack+Developer;Frontend+Engineer;IT+Support+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=PHEANG+KAKADA;FULL-STACK+DEVELOPER;FRONTEND+ENGINEER;BUILDING+DIGITAL+EXPERIENCES" />
 
 <br>
 
-<p>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&text=Welcome%20To%20My%20GitHub&fontSize=45&fontAlignY=50&animation=fadeIn&color=0:06B6D4,100:6366F1"/>
+
+<br>
+
 <a href="https://pheangkakadaportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-Live-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pheang-kakada-2ab01840b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:oookakada@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-e11d48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
-### Building digital experiences with modern technologies ✨
-
-# 👨‍💻 About Me
-
-I'm a passionate **Full-Stack Developer** and **Computer Science graduate** from the Royal University of Phnom Penh.
-
-I specialize in building modern web applications with a strong focus on frontend development, responsive user interfaces, and exceptional user experiences. I enjoy transforming ideas into real-world software solutions through clean code, modern technologies, and continuous learning.
-
-Beyond software development, I have experience in **IT Support**, **computer troubleshooting**, **software installation**, **system maintenance**, and **PC building**, giving me a strong foundation in both software and hardware environments.
-
-Currently, I'm focused on improving my backend development skills, learning software architecture, and building production-ready applications.
-
----
-
-# 🚀 Tech Stack
-
-### Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-### Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Mobile & Desktop Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,java,cs" />
-</p>
-
-### Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-### 🤖 Portfolio AI Assistant
-
-A modern portfolio website featuring an AI-powered assistant, responsive UI, interactive design, and real-time user interaction.
-
-**Tech:** React.js • Node.js • Tailwind CSS • AI APIs
-
----
-
-### 🏫 Classroom Management System
-
-Desktop application for managing students, attendance tracking, assignments, submissions, reports, and academic administration.
-
-**Tech:** C# • WinForms • MySQL
-
----
-
-### ☕ Espresso POS System
-
-Point-of-sale system designed for coffee shops with product management, inventory tracking, staff control, and reporting.
-
-**Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
-
----
-
-### 🧠 Brain App
-
-Cross-platform productivity application focused on organization, note-taking, and personal workflow management.
-
-**Tech:** Flutter
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🎯 Currently Learning
+# 🚀 Who Am I?
 
-* Next.js
-* TypeScript
-* Express.js
-* Spring Framework
-* Software Architecture
-* REST API Development
+I'm a **Computer Science Graduate** and **Full-Stack Developer** passionate about creating modern software that combines beautiful user experiences with powerful functionality.
+
+My journey spans:
+
+✨ Frontend Development
+
+✨ Full-Stack Web Applications
+
+✨ UI/UX Design
+
+✨ IT Support & System Troubleshooting
+
+✨ Desktop & Mobile Development
+
+I enjoy building products that are clean, useful, and impactful.
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,mysql,flutter,java,cs,git,github,vscode,figma,vercel&perline=9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Frontend  | ⚙️ Backend | 📱 Mobile & Desktop | 🎨 Design & Tools |
+| ------------ | ---------- | ------------------- | ----------------- |
+| React.js     | Node.js    | Flutter             | Figma             |
+| Next.js      | Express.js | Java                | VS Code           |
+| JavaScript   | MongoDB    | C#                  | Git               |
+| Tailwind CSS | MySQL      | WinForms            | GitHub            |
+| HTML & CSS   | REST APIs  | Desktop Apps        | Vercel            |
+
+</div>
 
 ---
 
-# 💼 Open To
+<div align="center">
 
-✅ Software Developer Internship
+### 💡 What I Build
 
-✅ Junior Frontend Developer
+🌐 Modern Websites • 🤖 AI Applications • 📱 Mobile Apps
 
-✅ Junior Full-Stack Developer
+🖥️ Desktop Software • 🎨 User Interfaces • 🚀 Full-Stack Solutions
 
-✅ IT Support / IT Technician
+</div>
 
-✅ Freelance Projects
+<br>
 
-✅ Collaboration Opportunities
+<div align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=tokyonight&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2CFFFFFF%3Btailwindcss%2CTailwind%2C06B6D4%3B&line2=nodedotjs%2CNode.js%2C339933%3Bmongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1%3B&line3=flutter%2CFlutter%2C02569B%3Bgit%2CGit%2CF05032%3Bfigma%2CFigma%2CF24E1E%3B" />
+
+</div>
+
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Portfolio AI Assistant
+
+AI-powered portfolio experience with intelligent conversations and modern UI design.
+
+**React • Node.js • Tailwind**
+
+</td>
+
+<td width="50%">
+
+### 🏫 Classroom Management System
+
+Complete academic management platform with attendance and assignment tracking.
+
+**C# • WinForms • MySQL**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Espresso POS
+
+Coffee shop point-of-sale system with inventory and reporting.
+
+**JavaScript • Node.js • MongoDB**
+
+</td>
+
+<td width="50%">
+
+### 🧠 Brain App
+
+Cross-platform productivity application focused on personal growth.
+
+**Flutter**
+
+</td>
+</tr>
+</table>
+
+---
+# 🚀 Learning Roadmap
+
+### Currently Exploring
+
+⚡ Next.js — Building faster and more scalable web applications
+
+🔷 TypeScript — Writing safer and more maintainable code
+
+🌐 Express.js — Creating robust backend APIs
+
+🍃 Spring Framework — Expanding backend development knowledge
+
+🏗️ Software Architecture — Designing scalable and production-ready systems
+
+☁️ Cloud & Deployment — Learning modern deployment workflows
 
 ---
 
-# 🌍 Connect With Me
+### Mission
+
+Transforming ideas into real-world applications while continuously improving as a software engineer.
+
+
+# 🎯 2026 Mission
+
+🔥 Build Production-Ready Applications
+
+🔥 Master Backend Architecture
+
+🔥 Learn Cloud & DevOps
+
+🔥 Contribute To Open Source
+
+🔥 Become A Professional Software Engineer
+
+---
+
+# 🎯 Why Hire Me?
+
+🚀 Passionate about building modern software
+
+💡 Strong problem-solving mindset
+
+⚡ Fast learner who adapts quickly
+
+🎨 Focus on clean UI and great user experience
+
+🛠️ Experience in both software development and IT support
+
+🤝 Reliable team player with strong communication skills
+
+📈 Committed to continuous learning and professional growth
+
+**My goal is simple: deliver quality work, keep improving, and help teams build products users love.**
+
+# 🌍 Let's Connect
+
+<div align="center">
 
 🌐 Portfolio
 https://pheangkakadaportfolio.vercel.app
@@ -148,23 +202,20 @@ https://www.linkedin.com/in/pheang-kakada-2ab01840b
 📧 Email
 [oookakada@gmail.com](mailto:oookakada@gmail.com)
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,100:6366F1&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
 
-### Thanks for visiting my profile 🚀
+<br><br>
 
-*"Building clean code, modern interfaces, and meaningful digital experiences."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06B6D4,100:6366F1"/>
 
-</div>
+### ⭐ Thanks for stopping by!
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,100:6366f1&section=footer" />
-
-### Thanks for visiting my profile 🚀
+**"Building software that people enjoy using."**
 
 </div>
