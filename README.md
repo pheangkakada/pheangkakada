@@ -42,25 +42,47 @@ My journey spans:
 
 I enjoy building products that are clean, useful, and impactful.
 
-# ⚡ Tech Stack
+# 🌌 Tech Stack Experince With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,mysql,flutter,java,cs,git,github,vscode,figma,vercel&perline=9" />
+### 🚀 Frontend Galaxy
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 
-<br>
+Building modern, responsive, and interactive user experiences.
 
-<div align="center">
+---
 
-| 🚀 Frontend  | ⚙️ Backend | 📱 Mobile & Desktop | 🎨 Design & Tools |
-| ------------ | ---------- | ------------------- | ----------------- |
-| React.js     | Node.js    | Flutter             | Figma             |
-| Next.js      | Express.js | Java                | VS Code           |
-| JavaScript   | MongoDB    | C#                  | Git               |
-| Tailwind CSS | MySQL      | WinForms            | GitHub            |
-| HTML & CSS   | REST APIs  | Desktop Apps        | Vercel            |
+### ⚙️ Backend Engine
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+Powering applications with scalable APIs and databases.
+
+---
+
+### 📱 App Development
+
+<img src="https://skillicons.dev/icons?i=flutter,java,cs" />
+
+Creating desktop and mobile solutions that solve real-world problems.
+
+---
+
+### 🎨 Creative Studio
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+Designing interfaces that are simple, modern, and user-focused.
+
+---
+
+### 🛠️ Developer Toolkit
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+Tools I use every day to build, collaborate, and deploy.
 
 </div>
 
@@ -68,22 +90,21 @@ I enjoy building products that are clean, useful, and impactful.
 
 <div align="center">
 
-### 💡 What I Build
+### ✨ What I Love Building
 
-🌐 Modern Websites • 🤖 AI Applications • 📱 Mobile Apps
+🌐 Modern Websites
 
-🖥️ Desktop Software • 🎨 User Interfaces • 🚀 Full-Stack Solutions
+🤖 AI-Powered Applications
+
+📱 Mobile Apps
+
+🖥️ Desktop Software
+
+🎨 Beautiful User Interfaces
+
+🚀 Full-Stack Solutions
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=tokyonight&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2CFFFFFF%3Btailwindcss%2CTailwind%2C06B6D4%3B&line2=nodedotjs%2CNode.js%2C339933%3Bmongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1%3B&line3=flutter%2CFlutter%2C02569B%3Bgit%2CGit%2CF05032%3Bfigma%2CFigma%2CF24E1E%3B" />
-
-</div>
-
 
 # 🌟 Featured Projects
 
