@@ -1,64 +1,70 @@
-# 👋 Hi, I'm Pheang Kakada
-
 <div align="center">
 
-### Full-Stack Developer • Frontend Developer • IT Support
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pheang+Kakada;Full-Stack+Developer;Frontend+Engineer;IT+Support+Specialist" />
 
-Passionate about building modern web applications, creating intuitive user experiences, and solving real-world problems through technology.
+<br>
 
-</div>
+<p>
+<a href="https://pheangkakadaportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/pheang-kakada-2ab01840b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge" />
+</a>
+
+<a href="mailto:oookakada@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-e11d48?style=for-the-badge" />
+</a>
+</p>
+
+### Building digital experiences with modern technologies ✨
+
+# 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** and **Computer Science graduate** from the Royal University of Phnom Penh.
+
+I specialize in building modern web applications with a strong focus on frontend development, responsive user interfaces, and exceptional user experiences. I enjoy transforming ideas into real-world software solutions through clean code, modern technologies, and continuous learning.
+
+Beyond software development, I have experience in **IT Support**, **computer troubleshooting**, **software installation**, **system maintenance**, and **PC building**, giving me a strong foundation in both software and hardware environments.
+
+Currently, I'm focused on improving my backend development skills, learning software architecture, and building production-ready applications.
 
 ---
 
-## 🚀 About Me
+# 🚀 Tech Stack
 
-🎓 Computer Science Graduate
+### Frontend Development
 
-💻 Frontend & Full-Stack Developer
-
-🛠️ IT Support & Computer Technician
-
-🌱 Currently learning Next.js, TypeScript, Express.js, and Spring Framework
-
-📍 Phnom Penh, Cambodia
-
-⚡ Passionate about modern UI/UX, software engineering, and scalable web applications
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
 
-### Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Programming Languages
+### Mobile & Desktop Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,cs,java,flutter,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,java,cs" />
 </p>
 
-### Tools & Platforms
+### Tools & Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Projects
 
 ### 🤖 Portfolio AI Assistant
 
-Modern portfolio website featuring an AI-powered assistant, interactive UI, responsive design, and chatbot integration.
+A modern portfolio website featuring an AI-powered assistant, responsive UI, interactive design, and real-time user interaction.
 
 **Tech:** React.js • Node.js • Tailwind CSS • AI APIs
 
@@ -66,7 +72,7 @@ Modern portfolio website featuring an AI-powered assistant, interactive UI, resp
 
 ### 🏫 Classroom Management System
 
-Desktop application for managing students, attendance, assignments, reports, and academic records.
+Desktop application for managing students, attendance tracking, assignments, submissions, reports, and academic administration.
 
 **Tech:** C# • WinForms • MySQL
 
@@ -74,7 +80,7 @@ Desktop application for managing students, attendance, assignments, reports, and
 
 ### ☕ Espresso POS System
 
-Point-of-sale system designed for coffee shops with order management, staff control, and sales reporting.
+Point-of-sale system designed for coffee shops with product management, inventory tracking, staff control, and reporting.
 
 **Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
 
@@ -82,41 +88,48 @@ Point-of-sale system designed for coffee shops with order management, staff cont
 
 ### 🧠 Brain App
 
-Mobile application focused on productivity, note-taking, and personal organization.
+Cross-platform productivity application focused on organization, note-taking, and personal workflow management.
 
 **Tech:** Flutter
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+<br><br>
 
----
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 
-## 🎯 Current Goals
-
-* Build production-ready full-stack applications
-* Improve backend architecture skills
-* Learn cloud deployment and DevOps
-* Contribute to open-source projects
-* Grow as a Software Engineer
+</div>
 
 ---
 
-## 💼 Looking For
+# 🎯 Currently Learning
 
-✅ Internship Opportunities
+* Next.js
+* TypeScript
+* Express.js
+* Spring Framework
+* Software Architecture
+* REST API Development
 
-✅ Junior Frontend Developer Roles
+---
 
-✅ Junior Full-Stack Developer Roles
+# 💼 Open To
+
+✅ Software Developer Internship
+
+✅ Junior Frontend Developer
+
+✅ Junior Full-Stack Developer
+
+✅ IT Support / IT Technician
 
 ✅ Freelance Projects
 
@@ -124,21 +137,34 @@ Mobile application focused on productivity, note-taking, and personal organizati
 
 ---
 
-## 📫 Connect With Me
+# 🌍 Connect With Me
 
-📧 Email: [oookakada@gmail.com](mailto:oookakada@gmail.com)
+🌐 Portfolio
+https://pheangkakadaportfolio.vercel.app
 
-🌐 Portfolio: https://pheangkakadaportfolio.vercel.app/
+💼 LinkedIn
+https://www.linkedin.com/in/pheang-kakada-2ab01840b
 
-💼 LinkedIn: https://www.linkedin.com/in/pheang-kakada-2ab01840b/
-
+📧 Email
+[oookakada@gmail.com](mailto:oookakada@gmail.com)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,100:6366F1&section=footer"/>
+
+### Thanks for visiting my profile 🚀
 
 *"Building clean code, modern interfaces, and meaningful digital experiences."*
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,100:6366f1&section=footer" />
+
+### Thanks for visiting my profile 🚀
 
 </div>
