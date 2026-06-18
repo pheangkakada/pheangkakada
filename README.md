@@ -1,16 +1,145 @@
-## Hi there 👋
+# 👋 Hi, I'm Pheang Kakada
 
-<!--
-**pheangkakada/pheangkakada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Full-Stack Developer • Frontend Developer • IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building modern web applications, creating intuitive user experiences, and solving real-world problems through technology.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Graduate
+
+💻 Frontend & Full-Stack Developer
+
+🛠️ IT Support & Computer Technician
+
+🌱 Currently learning Next.js, TypeScript, Express.js, and Spring Framework
+
+📍 Phnom Penh, Cambodia
+
+⚡ Passionate about modern UI/UX, software engineering, and scalable web applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,cs,java" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Portfolio AI Assistant
+
+Modern portfolio website featuring an AI-powered assistant, interactive UI, responsive design, and chatbot integration.
+
+**Tech:** React.js • Node.js • Tailwind CSS • AI APIs
+
+---
+
+### 🏫 Classroom Management System
+
+Desktop application for managing students, attendance, assignments, reports, and academic records.
+
+**Tech:** C# • WinForms • MySQL
+
+---
+
+### ☕ Espresso POS System
+
+Point-of-sale system designed for coffee shops with order management, staff control, and sales reporting.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • MongoDB
+
+---
+
+### 🧠 Brain App
+
+Mobile application focused on productivity, note-taking, and personal organization.
+
+**Tech:** Flutter
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Build production-ready full-stack applications
+* Improve backend architecture skills
+* Learn cloud deployment and DevOps
+* Contribute to open-source projects
+* Grow as a Software Engineer
+
+---
+
+## 💼 Looking For
+
+✅ Internship Opportunities
+
+✅ Junior Frontend Developer Roles
+
+✅ Junior Full-Stack Developer Roles
+
+✅ Freelance Projects
+
+✅ Collaboration Opportunities
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [oookakada@gmail.com](mailto:oookakada@gmail.com)
+
+🌐 Portfolio: https://pheangkakadaportfolio.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/pheang-kakada-2ab01840b/
+
+💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👨‍💻
+
+*"Building clean code, modern interfaces, and meaningful digital experiences."*
+
+</div>
