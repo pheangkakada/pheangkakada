@@ -42,7 +42,7 @@ My journey spans:
 
 I enjoy building products that are clean, useful, and impactful.
 
-# 🌌 Tech Stack Experince With
+# 🌌 Tech Stack experience With
 
 <div align="center">
 
