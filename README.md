@@ -56,7 +56,7 @@ Building modern, responsive, and interactive user experiences.
 
 ### ⚙️ Backend Engine
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 
 Powering applications with scalable APIs and databases.
 
@@ -179,8 +179,6 @@ Transforming ideas into real-world applications while continuously improving as 
 🔥 Build Production-Ready Applications
 
 🔥 Master Backend Architecture
-
-🔥 Learn Cloud & DevOps
 
 🔥 Contribute To Open Source
 
