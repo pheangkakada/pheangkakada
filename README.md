@@ -48,7 +48,7 @@ I enjoy building products that are clean, useful, and impactful.
 
 ### 🚀 Frontend Galaxy
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
 Building modern, responsive, and interactive user experiences.
 
@@ -95,10 +95,6 @@ Tools I use every day to build, collaborate, and deploy.
 🌐 Modern Websites
 
 🤖 AI-Powered Applications
-
-📱 Mobile Apps
-
-🖥️ Desktop Software
 
 🎨 Beautiful User Interfaces
 
