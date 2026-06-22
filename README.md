@@ -194,11 +194,7 @@ Transforming ideas into real-world applications while continuously improving as 
 
 ⚡ Fast learner who adapts quickly
 
-🎨 Focus on clean UI and great user experience
-
-🛠️ Experience in both software development and IT support
-
-🤝 Reliable team player with strong communication skills
+🎨 Focus on clean UI and great user 
 
 📈 Committed to continuous learning and professional growth
 
