@@ -1,137 +1,141 @@
-# Pheang Kakada
+✦ About Me
+<table> <tr> <td width="50%">
+🎨 Design
+UX Research
+User Flow
+Wireframing
+Prototyping
+UI Design
+Responsive Design
+Design Systems
+Usability
+Accessibility
+</td> <td width="50%">
+💻 Development
+HTML / CSS
+JavaScript
+React.js
+Tailwind CSS
+Bootstrap
+REST APIs
+Python / FastAPI
+SQL / MongoDB
+</td> </tr> </table>
+🎨 Design Philosophy
+<div align="center">
+"Good design is not about adding more.
+It's about making the right things clear."
+<br/>
 
-### UX/UI Designer · Web Developer
+Simple · Useful · Accessible · Consistent · Human
 
-I design **clean, intuitive, and meaningful digital experiences**.
+</div>
+🚀 Selected Projects
+01 · 🏦 ABA Mobile App UI
 
-With a background in Computer Science, I combine **UX thinking, visual design, and front-end development** to turn ideas into polished digital products.
+UX/UI Case Study
 
-[ Portfolio ] · [ LinkedIn ] · [ Figma ] · [ GitHub ]
+A mobile banking UI concept focused on creating a clean, intuitive, and accessible experience for everyday banking tasks.
 
----
+My Role
 
-## About
+UX Research User Flow Wireframing UI Design Prototype
 
-I'm passionate about understanding how people interact with products and creating interfaces that feel simple, purposeful, and easy to use.
+Tools
+<img src="https://skillicons.dev/icons?i=figma" height="40"/> <br/> <a href="YOUR_FIGMA_PROJECT_LINK"> <img src="https://img.shields.io/badge/VIEW%20CASE%20STUDY-6366F1?style=for-the-badge&logo=figma&logoColor=white"/> </a> <a href="YOUR_FIGMA_PROTOTYPE_LINK"> <img src="https://img.shields.io/badge/VIEW%20PROTOTYPE-111827?style=for-the-badge&logo=figma&logoColor=white"/> </a>
+02 · 👕 Clothing Shop
 
-My design process focuses on:
+E-Commerce · UX/UI · Web Development
 
-**Research → Define → Wireframe → Prototype → Design → Test → Improve**
+A modern clothing shopping experience designed around simple product discovery, clear product information, and an intuitive ordering flow.
 
-I care about both **how a product looks** and **how it works**.
+Focus
 
----
+UX UI Responsive Design Product Experience
 
-## Selected Work
+Built With
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" height="40"/> <br/> <a href="YOUR_LIVE_DEMO_LINK"> <img src="https://img.shields.io/badge/LIVE%20DEMO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="YOUR_GITHUB_REPOSITORY_LINK"> <img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
+03 · 🤖 AI Portfolio Assistant
 
-### 01 — Mobile Banking Experience
+AI · Product Design · Interactive Experience
 
-**ABA App — UI/UX Concept**
+An interactive portfolio assistant designed to help visitors explore projects, skills, and personal information through a conversational interface.
 
-A mobile banking interface concept focused on creating a clean and accessible experience for everyday financial tasks.
+Focus
 
-**Role**
-UX Research · User Flow · Wireframing · UI Design · Prototyping
+Product Design Interaction Design UI Design AI Experience
 
-**Tools**
-Figma · FigJam
+Built With
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,python" height="40"/> <br/> <a href="YOUR_AI_PROJECT_LINK"> <img src="https://img.shields.io/badge/LIVE%20PROJECT-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="YOUR_GITHUB_REPOSITORY_LINK"> <img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🧠 UX/UI Toolkit
+<div align="center"> <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma"/> <img width="10"/> <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Photoshop"/> <img width="10"/> <img src="https://skillicons.dev/icons?i=ai" height="50" alt="Illustrator"/> </div> <br/> <div align="center">
+UX	UI	Product
+🔎 User Research	🎨 Visual Design	📱 Product Design
+🧭 User Flow	✍️ Typography	📐 Responsive Design
+📝 Wireframing	🎯 Layout	🧩 Design Systems
+🔗 Prototyping	🌈 Color	♿ Accessibility
+🧪 Usability Testing	🖼️ Components	🔄 Iteration
+</div>
+💻 Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=python,fastapi" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /> </p>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pheangkakada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheangkakada&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" height="180"/> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=pheangkakada&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" /> </div>
+🐍 Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/pheangkakada/pheangkakada/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pheangkakada&bg_color=0D1117&color=FFFFFF&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
+✦ Currently
+<div align="center">
+	
+🎨 Designing	Modern digital experiences
+🔎 Learning	Advanced UX Research
+🧩 Exploring	Design Systems
+💻 Building	Modern Web Applications
+🤖 Exploring	AI-powered products
+</div>
+🌱 My Design Process
+<div align="center">
+       ┌──────────┐
+       │ RESEARCH │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  DEFINE  │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │ WIREFRAME│
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │ PROTOTYPE│
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  DESIGN  │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │   TEST   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │ IMPROVE  │
+       └──────────┘
+</div>
+📫 Let's Connect
+<div align="center">
+Interested in design, technology, or building something meaningful?
+<br/> <a href="https://www.linkedin.com/in/pheang-kakada/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/pheangkakada"> <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_LINK"> <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div> <br/> <div align="center">
+Pheang Kakada
 
-→ View Case Study
-→ View Prototype
+UX/UI Designer · Web Developer · Creative Problem Solver
 
----
-
-### 02 — E-Commerce Experience
-
-**Clothing Shop**
-
-A modern shopping experience designed around simple product discovery, clear information architecture, and an intuitive ordering flow.
-
-**Role**
-UX/UI Design · Responsive Design · Front-end Development
-
-**Tech**
-React.js · Tailwind CSS · JavaScript
-
-→ Live Demo
-→ Source Code
-
----
-
-### 03 — AI Portfolio Experience
-
-**AI Portfolio Assistant**
-
-An interactive portfolio experience that allows visitors to explore projects, skills, and information through an AI-powered interface.
-
-**Role**
-Product Design · UI Design · Interaction Design
-
-**Tech**
-React.js · REST API · AI
-
-→ Live Demo
-→ Source Code
-
----
-
-## Design Skills
-
-| UX            | UI             | Product           |
-| ------------- | -------------- | ----------------- |
-| User Research | Visual Design  | User Experience   |
-| User Flow     | Typography     | Responsive Design |
-| Wireframing   | Color & Layout | Design Systems    |
-| Prototyping   | Components     | Usability Testing |
-
----
-
-## Tools
-
-**Design**
-
-`Figma` `FigJam` `Photoshop` `Illustrator`
-
-**Development**
-
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS` `Bootstrap`
-
-**Other**
-
-`Git` `GitHub` `VS Code` `Postman`
-
----
-
-## Design Philosophy
-
-> **Good design is not about adding more.
-> It's about making the right things clear.**
-
-I aim to create experiences that are:
-
-**Simple · Useful · Accessible · Consistent · Human**
-
----
-
-## Currently
-
-**Designing** digital experiences
-**Learning** advanced UX research & design systems
-**Building** modern web applications
-**Exploring** AI-powered product experiences
-
----
-
-## Let's Connect
-
-If you're interested in design, technology, or building something meaningful:
-
-**Pheang Kakada**
-
-UX/UI Designer · Web Developer
-
-[ LinkedIn ] · [ Portfolio ] · [ Figma ] · [ Email ]
-
----
-
-<sub>Designed with intention · Built with curiosity</sub>
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:111827&height=120&section=footer"/> </div> ```
