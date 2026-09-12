@@ -1,7 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=220&section=header&text=Pheang%20Kakada&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=UX%2FUI%20Designer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&text=Welcome%20To%20My%20GitHub&fontSize=45&fontAlignY=50&animation=fadeIn&color=0:06B6D4,100:6366F1"/>
+
+<br>
 <a href="https://github.com/pheangkakada">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer+%C2%B7+Web+Developer;Designing+clean+digital+experiences;Turning+ideas+into+modern+interfaces;Figma+%C2%B7+React.js+%C2%B7+Tailwind+CSS" />
 </a>
