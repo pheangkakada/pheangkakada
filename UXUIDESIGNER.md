@@ -30,14 +30,15 @@
 
 ---
 
-# 👋 Hello, I'm Pheang Kakada
+# Pheang Kakada
 
 ### UX/UI Designer · Web Developer
 
-I'm a **Computer Science graduate from the Royal University of Phnom Penh (RUPP)** passionate about creating clean, intuitive, and user-centered digital experiences.
+Computer Science graduate from **RUPP** who enjoys turning complex ideas into **simple, intuitive, and visually refined digital experiences**.
 
-I combine **UX thinking, visual design, and front-end development** to turn ideas into polished digital products.
+I work across **UX research, UI design, prototyping, and front-end development**, bridging the gap between design and technology.
 
+> **Think. Design. Build. Improve.**
 ---
 
 ## ✦ Expertise & Skills
@@ -118,7 +119,7 @@ A modern clothing shopping experience designed around simple product discovery a
 An interactive AI assistant that helps visitors explore my projects, skills, and portfolio.  
 *Built with:* React.js | AI REST API
 
-<a href="YOUR_AI_PROJECT">
+<a href="[YOUR_AI_PROJECT](https://pheangkakadaportfolio.vercel.app/AiagentUI)">
 <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
