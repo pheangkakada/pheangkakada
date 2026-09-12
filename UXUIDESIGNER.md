@@ -206,7 +206,7 @@ Research ➔ Define ➔ Wireframe ➔ Prototype ➔ Design ➔ Test ➔ Improve
   <a href="https://pheangkakadaportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="./Pheang-Kakada-CV.pdf">
+  <a href="./PheangKakadaUXUI_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
