@@ -36,3 +36,24 @@ I combine **UX thinking, visual design, and front-end development** to turn idea
 
 ```text
 Research → Define → Wireframe → Prototype → Design → Test → Improve
+
+
+
+🎨 UX/UI Design
+🔎 User Research
+🧭 User Flow
+📝 Wireframing
+🔗 Prototyping
+🎨 UI Design
+📱 Responsive Design
+🧩 Design Systems
+🧪 Usability Testing
+Design Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+💻 Tech Stack
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+Backend & Database
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgres,mongodb" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
