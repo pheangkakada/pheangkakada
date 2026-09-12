@@ -21,8 +21,8 @@
 <a href="https://pheangkakadaportfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://github.com/pheangkakada">
-<img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="./PheangKakadaUXUI_CV.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD_CV-111827?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -37,12 +37,13 @@
 # Pheang Kakada
 
 ### UX/UI Designer · Web Developer
+## About
 
-Computer Science graduate from **RUPP** who enjoys turning complex ideas into **simple, intuitive, and visually refined digital experiences**.
+I’m a **Computer Science graduate from the Royal University of Phnom Penh (RUPP)** focused on creating thoughtful, modern, and user-centered digital experiences.
 
-I work across **UX research, UI design, prototyping, and front-end development**, bridging the gap between design and technology.
+I combine **UX research, visual design, prototyping, and front-end development** to transform ideas into intuitive interfaces and meaningful products.
 
-> **Think. Design. Build. Improve.**
+> Think → Research → Design → Prototype → Build → Test → Improve
 ---
 
 ## ✦ Expertise & Skills
@@ -55,7 +56,7 @@ I work across **UX research, UI design, prototyping, and front-end development**
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br />Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="48" /><br />Photoshop</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=canva" width="48" /><br />Photoshop</td>
+    <td align="center"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/dbbb7d5c-efbe-428e-998c-957a469cb5b2" /><br />Canva</td>
   </tr>
 </table>
 
@@ -77,7 +78,7 @@ I work across **UX research, UI design, prototyping, and front-end development**
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br />NodeJs</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=api" width="48" /><br />RestAPIs</td>
+    <td align="center"><img width="48" alt="image" src="https://github.com/user-attachments/assets/4a9ef1d0-c4ec-4a27-b003-624728be4bc6" /><br />RestAPIs</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br />MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br />MongoDB</td>
   </tr>
@@ -96,7 +97,7 @@ I work across **UX research, UI design, prototyping, and front-end development**
 
 ---
 
-# 🚀 Featured Projects
+## ✦ Featured Projects
 
 ### 🏦 01 — ABA Mobile App UI
 
@@ -105,7 +106,7 @@ I work across **UX research, UI design, prototyping, and front-end development**
 A mobile banking UI concept focused on creating a clean, intuitive, and accessible experience for everyday banking tasks.
 
 **Focus:**  
-`UX Research` `User Flow` `UI Design` `Prototype`
+`ReDesign` `Prototype`
 
 <a href="https://www.figma.com/design/vMmrqilgyRzpNbYu51I6bx/Untitled?node-id=424-2&t=Yb7gE4DuQZdmxxHb-1">
 <img src="https://img.shields.io/badge/View%20Figma-6366F1?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -170,36 +171,40 @@ An interactive AI assistant that helps visitors explore my projects, skills, and
 </a>
 
 ---
-
-## ✦ Design Philosophy & Process
+## ✦ Design Principles
 
 <div align="center">
-  
-> *"Good design is not about adding more. It's about making the right things clear."*
-> **Simple · Useful · Accessible · Consistent · Human**
 
-<br/>
+### 01 — Keep it Simple
+Remove unnecessary complexity and make every interaction clear.
 
-**🧠 My Design Process**<br/>
-Research ➔ Define ➔ Wireframe ➔ Prototype ➔ Design ➔ Test ➔ Improve
+### 02 — Design for People
+Understand users before designing solutions.
+
+### 03 — Consistency Matters
+Create interfaces that feel familiar, predictable, and easy to use.
+
+### 04 — Design → Test → Improve
+Good products evolve through feedback and iteration.
 
 </div>
 
 ---
-
-
 
 ## ✦ Currently
 <div align="center">
-  🔎 Learning UX Research <br/>
-  🧩 Exploring Design Systems <br/>
-  💻 Building modern web applications <br/>
-  🤖 Exploring AI-powered products
+
+ **Designing** — Clean & modern interfaces  
+ **Learning** — UX Research & Usability Testing  
+ **Exploring** — Design Systems & Components  
+ **Building** — React & Full-Stack Applications  
+ **Exploring** — AI-powered user experiences  
+
 </div>
 
 ---
 
-## ✦ Let's Connect
+## ✦ Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pheang-kakada/">
@@ -212,7 +217,7 @@ Research ➔ Define ➔ Wireframe ➔ Prototype ➔ Design ➔ Test ➔ Improve
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="./PheangKakadaUXUI_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-Download-111827?style=for-the-badge&logo=resume&logoColor=white"/>
   </a>
   
 </div>
