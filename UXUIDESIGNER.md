@@ -14,9 +14,13 @@
 <a href="https://github.com/pheangkakada">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://pheangkakadaportfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="https://github.com/pheangkakada">
+<img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 
 <br/><br/>
 
