@@ -30,6 +30,7 @@
 
 ---
 
+
 # Pheang Kakada
 
 ### UX/UI Designer · Web Developer
@@ -51,6 +52,7 @@ I work across **UX research, UI design, prototyping, and front-end development**
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br />Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="48" /><br />Photoshop</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=canva" width="48" /><br />Photoshop</td>
   </tr>
 </table>
 
