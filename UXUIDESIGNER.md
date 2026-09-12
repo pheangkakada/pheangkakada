@@ -100,9 +100,9 @@ I work across **UX research, UI design, prototyping, and front-end development**
 A mobile banking UI concept focused on creating a clean, intuitive, and accessible experience for everyday banking tasks.
 
 **Focus:**  
-`UX Research` `User Flow` `Wireframing` `UI Design` `Prototype`
+`UX Research` `User Flow` `UI Design` `Prototype`
 
-<a href="YOUR_FIGMA_LINK">
+<a href="https://www.figma.com/design/vMmrqilgyRzpNbYu51I6bx/Untitled?node-id=424-2&t=Yb7gE4DuQZdmxxHb-1">
 <img src="https://img.shields.io/badge/View%20Figma-6366F1?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
