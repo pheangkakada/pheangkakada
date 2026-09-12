@@ -91,33 +91,74 @@ I work across **UX research, UI design, prototyping, and front-end development**
 
 ---
 
-## ✦ Featured Projects
+# 🚀 Featured Projects
 
 ### 🏦 01 — ABA Mobile App UI
-**UX/UI Case Study**  
-A mobile banking UI concept focused on creating a clean, intuitive, and accessible experience.  
-*Focus:* UX Research | User Flow | Wireframing | UI Design | Prototype
+
+**UX/UI Case Study**
+
+A mobile banking UI concept focused on creating a clean, intuitive, and accessible experience for everyday banking tasks.
+
+**Focus:**  
+`UX Research` `User Flow` `Wireframing` `UI Design` `Prototype`
 
 <a href="YOUR_FIGMA_LINK">
 <img src="https://img.shields.io/badge/View%20Figma-6366F1?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
-### 👕 02 — Clothing Shop
-**E-Commerce · UX/UI · Web Development**  
-A modern clothing shopping experience designed around simple product discovery and an intuitive ordering flow.  
-*Built with:* React.js | JavaScript | Tailwind CSS
+---
 
-<a href="YOUR_LIVE_DEMO">
+### 🧾 02 — POS System
+
+**Point of Sale · UX/UI · Web Application**
+
+A modern **Point of Sale (POS) system** designed to simplify daily sales operations, product management, and transaction workflows.
+
+**Focus:**  
+`Dashboard Design` `Product Management` `Sales Flow` `Order Management` `Responsive UI`
+
+**Built with:**  
+`React.js` `JavaScript` `Tailwind CSS` `REST API`
+
+<a href="https://github.com/pheangkakada/EspressoPOS/issues/1">
 <img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="YOUR_GITHUB_REPO">
+
+<a href="https://github.com/pheangkakada/EspressoPOS">
 <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 🤖 03 — AI Portfolio Assistant
-**AI · Product Design · Interactive Experience**  
-An interactive AI assistant that helps visitors explore my projects, skills, and portfolio.  
-*Built with:* React.js | LLMs | Grok APIs
+---
+
+### 👕 03 — Clothing Shop
+
+**E-Commerce · UX/UI · Web Development**
+
+A modern clothing shopping experience designed around simple product discovery, clear product information, and an intuitive ordering flow.
+
+**Focus:**  
+`UX` `UI` `Responsive Design` `Product Experience`
+
+**Built with:**  
+`Figma` `Prototyping` `UX/UI` `User Flow`
+
+<a href="https://www.figma.com/design/vMmrqilgyRzpNbYu51I6bx/Untitled?node-id=557-30&t=Yb7gE4DuQZdmxxHb-1">
+<img src="https://img.shields.io/badge/View%20Figma-6366F1?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+---
+
+### 🤖 04 — AI Portfolio Assistant
+
+**AI · Product Design · Interactive Experience**
+
+An interactive AI assistant that helps visitors explore my projects, skills, and portfolio through a conversational interface.
+
+**Focus:**  
+`Portfolio` `UI Design` `AI Experience` 
+
+**Built with:**  
+`React.js` `LLMs` `REST API` `NodeJS` `Grok API` 
 
 <a href="https://pheangkakadaportfolio.vercel.app/AiagentUI">
 <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
