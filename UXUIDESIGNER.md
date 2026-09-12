@@ -117,7 +117,7 @@ A modern clothing shopping experience designed around simple product discovery a
 ### 🤖 03 — AI Portfolio Assistant
 **AI · Product Design · Interactive Experience**  
 An interactive AI assistant that helps visitors explore my projects, skills, and portfolio.  
-*Built with:* React.js | AI REST API
+*Built with:* React.js | LLMs | Grok APIs
 
 <a href="https://pheangkakadaportfolio.vercel.app/AiagentUI">
 <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
