@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=220&section=header&text=Pheang%20Kakada&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=UX%2FUI%20Designer%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -33,10 +34,6 @@
 
 ---
 
-
-# Pheang Kakada
-
-### UX/UI Designer · Web Developer
 ## About
 
 I’m a **Computer Science graduate from the Royal University of Phnom Penh (RUPP)** focused on creating thoughtful, modern, and user-centered digital experiences.
