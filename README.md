@@ -121,7 +121,7 @@ A modern **Point of Sale (POS) system** designed to simplify daily sales operati
 `Dashboard Design` `Product Management` `Sales Flow` `Order Management` `Responsive UI`
 
 **Built with:**  
-`React.js` `JavaScript` `Tailwind CSS` `REST API`
+`HTML` `JavaScript` `CSS` `REST API` `NodeJs` `MongoDB`
 
 <a href="https://github.com/pheangkakada/EspressoPOS/issues/1">
 <img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
